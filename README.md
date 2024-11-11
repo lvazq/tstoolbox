@@ -1,4 +1,4 @@
-# tstoolbox
+# teststoolbox
 
 Explica cómo clonar el repositorio, instalar dependencias y ejecutar los tests de Cypress.
 
